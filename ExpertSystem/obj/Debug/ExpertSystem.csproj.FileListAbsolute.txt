@@ -1,0 +1,10 @@
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Form1.resources
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\timur\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
